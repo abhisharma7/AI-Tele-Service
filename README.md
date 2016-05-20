@@ -17,3 +17,12 @@ We worked on a lot of technologies, multi platform integration, AI api which wer
 
 # What we learned:
 Mircosoft API, Amazon AWS, CISCO Api......It was a challenging task from both programming and technology perspective and we learned a lot..
+
+# Contributors to the project:
+
+Abhishek Sharma
+Kelvin Sudani
+Rehana Devani
+Shweta Khatri
+Rohin Rajan
+

@@ -20,9 +20,9 @@ Mircosoft API, Amazon AWS, CISCO Api......It was a challenging task from both pr
 
 # Contributors to the project:
 
-Abhishek Sharma
-Kelvin Sudani
-Rehana Devani
-Shweta Khatri
-Rohin Rajan
+Abhishek Sharma <br />
+Kelvin Sudani <br />
+Rehana Devani <br />
+Shweta Khatri <br />
+Rohin Rajan 
 

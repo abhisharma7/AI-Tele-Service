@@ -26,7 +26,7 @@ We worked on a lot of technologies, multi platform integration, AI api which wer
 https://communities.cisco.com/community/developer/spark/blog/2016/05/01/hackdfw-too-much-fun
 
 # Team
-Abhishek Sharma.
+Abhishek Sharma. <br />
 Rohin Rajan.
 
 
